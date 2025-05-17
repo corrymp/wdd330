@@ -1,3 +1,5 @@
+Seperate copy for debugging
+
 Members:
     - Corry McConnell Palmer
     - Madalyn Querubin

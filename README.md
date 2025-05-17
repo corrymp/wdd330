@@ -1,4 +1,6 @@
-# Site URL   https://meek-manatee-653cc3.netlify.app/
+# Seperate copy for debugging
+
+## Site URL   [placeholder]
 
 # BYU-Pathway Worldwide Online
 ## WDD 330 - Web Frontend Development II
